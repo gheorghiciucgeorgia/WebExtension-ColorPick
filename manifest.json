@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Web Live Color Picker",
+    "description": "Simple Color Picker Extension that can be used on any webpage to pick the colors and also you can download the picked colors as a text file.",
+    "version": "1.0",
+    "action": {
+        "default_popup": "index.html"
+    },
+    "icons": {
+        "16": "icons/icon_16x16.png",
+        "32": "icons/icon_32x32.png",
+        "48": "icons/icon_48x48.png",
+        "128": "icons/icon_128x128.png"
+    }
+}
