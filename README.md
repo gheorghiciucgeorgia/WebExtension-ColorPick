@@ -6,7 +6,7 @@ A browser extension that allows users to pick colors from any webpage, save them
 
 ## Screenshots
 
-[preview.png]
+![Preview of the extension](preview.png)
 
 ---
 
