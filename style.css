@@ -7,10 +7,21 @@
     font-family: 'Source Sans 3', sans-serif;
 }
 
+.container {
+    background-color: #fff;
+    width: 350px;
+}
+
 .container :where(.picker, header, .all-colors) {
     display: flex;
     align-items: center;
     border-radius: 0 0 35px 35px;
+}
+
+.container .picker {
+    padding: 35px 0;
+    background-color: #C0C9EE;
+    justify-content: center;
 }
 
 .picker #picker-btn,
